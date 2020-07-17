@@ -6,7 +6,7 @@
 
 I am a 3rd yr undergraduate🙍 from Banasthali University, Jaipur(India), who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
 <br/>
-Full Stack Develpor(in progress)|| ML Enthusiast || Blogger || Tesseract Team Member
+Full Stack Developer(in progress)|| ML Enthusiast || Blogger || Tesseract Team Member
 <br/>
 Besides programming, I enjoy eating food and travelling.
 
