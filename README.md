@@ -21,7 +21,7 @@ Besides programming, I enjoy eating food and travelling.
 - 🙍  Open Source Contributor
 - ⚡️ Read my blogs at: [Aakansha](https://medium.com/@jainaakansha28)
 - 📫 How to reach me: jainaakansha28g@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1-3GN8xBrtTP9qxXOHu1gk9iQvD0nbhGI/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1rxZJ7bg58trACekdezY3nFmSLCpvqBS8/view?usp=sharing)
 
 **Languages and Tools:**  
 
